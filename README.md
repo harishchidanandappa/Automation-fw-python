@@ -8,13 +8,13 @@ Step 1: Clone repo
 First you need to clone the repo to your local
 
 Clone with SSH:
-
 git@github.com:Harishchidanandappa/automation_fw_python.git
+
 OR
 
 Clone with HTTPS:
-
 https://github.com/Harishchidanandappa/automation_fw_python.git
+
 Step 2: Setting up envionment variables
 Add API key to run the API test by adding below variable string under the file Data/config_data.py
 
